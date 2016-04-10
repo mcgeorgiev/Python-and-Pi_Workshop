@@ -1,5 +1,5 @@
 # Python-and-Pi_Workshop
-Introductory Workshop for the Raspberry Pi and Python
+######Introductory Workshop for the Raspberry Pi and Python
 
 This was a workshop given at The Glasgow School of Art in February 2016.
 It covered:
